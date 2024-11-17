@@ -712,6 +712,23 @@ const clients = [
             header: presetColors.blue // Header
         }
     },
+            {
+        id: 43,
+        name: "Opai Client",
+        price: "$20",
+        tags: ["Hypixel"], // Credits to wianis
+        game: "Minecraft",
+        description: "Focusing hypixel, don't have multiserver bypasses.",
+        cover: "https://opai.today/logo.png",
+        screenshots: [" "],
+        downloadLink: "https://discord.gg/wfVHsUjYgS",
+        otherButtons:[["https://luren.wiki/", "中国采购(Chinese Purchase)"]],
+        colors: {
+            text: presetColors.white, // Text
+            accent: presetColors.lightBlue, // Accent 
+            header: presetColors.blue // Header
+        }
+    },
     {
         id: 180,
         name: "BlockOverlay",
